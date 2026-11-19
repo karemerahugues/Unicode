@@ -1,0 +1,42 @@
+body{
+background-color: black;
+}
+.container{
+   background-color: beige;
+   text-align: center;
+   width:300px;
+   margin-left: 300px;
+   margin-top: 300px;
+   padding: 30px;
+   border-radius: 999px;
+}
+
+
+h1{
+    color: orange;
+}
+
+button{
+    padding: 10px 20px;
+    margin-top: 10px;
+    background-color: orange;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+input{
+    border-radius: 5px;
+}
+
+button:hover{
+    background-color: black;
+}
+
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    Color:orange;
+    font-size: 25px;
+}
